@@ -83,7 +83,7 @@ class SampleSwingCode extends JFrame{
 		add(tf1);
 		
 //		add(list);
-//		add(jb1);
+		add(jb1);
 		
 		ButtonGroup bg = new ButtonGroup();
 		bg.add(r1);
